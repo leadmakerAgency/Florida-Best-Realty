@@ -1,0 +1,73 @@
+# Florida Best Realty
+
+> Independent South Florida real estate brokerage hiring agents. 90–95% commission including rentals, 24-hour payouts, free office space with 24/7 access, and direct support from two brokers.
+
+This file expands on /llms.txt with the full recruiting-page content for AI agents.
+
+Florida Best Realty is a licensed real estate brokerage in the State of Florida. Tagline: Best people. Best service. The site is a recruiting page for real estate sales agents and brokers in South Florida.
+
+Office: 15807 Biscayne Blvd., Suite 213, North Miami Beach, FL 33160.
+
+## Offer
+
+Build a real estate career on your terms with two brokers who put agents first:
+
+- 90–95% commission, including rentals
+- Commission paid within 24 hours of closing
+- Free professional office with 24/7 access in prime South Florida locations
+- No desk, royalty, or transaction fees
+- No monthly or annual fees
+- Work from anywhere
+- In-house title company
+- Direct broker support after hours and on weekends
+
+## Why join
+
+Florida Best Realty was built by agents, for agents. Eugene Dison and Marat Zitsbank run a brokerage where agent success comes first: real support, fast payouts, and a professional home base, without corporate overhead.
+
+- **90–95% commission:** Keep the vast majority of every deal, rentals included.
+- **24-hour payouts:** Commission check is cut within 24 hours of closing, guaranteed.
+- **Two brokers, real support:** Eugene and Marat are hands-on and know agents by name and deal.
+- **After-hours and weekends:** Broker support is available when questions come up outside business hours.
+- **Free professional office:** Space to meet clients at no cost to the agent.
+- **24/7 office access:** Agents can use the office whenever it works for them and their clients.
+
+## How joining works
+
+1. **Apply** — Submit contact details through the callback form (under two minutes).
+2. **Talk to a broker** — Eugene or Marat calls personally to discuss fit, goals, and next steps. No call centers. Response within one business day.
+3. **Get set up** — Move into the free office, receive 24/7 access, and complete onboarding.
+4. **Start closing** — List, sell, and keep 90–95% of every commission, paid within 24 hours.
+
+## Coverage areas
+
+Serving buyers and sellers across South Florida:
+
+- **Miami-Dade County:** North Miami Beach to Homestead
+- **Broward County:** Fort Lauderdale to Pompano Beach
+- **Palm Beach County:** West Palm Beach, Boca Raton, and surrounding coastal communities
+
+## Brokers
+
+- **Eugene Dison** — President-Broker — +1 (954) 257-8664
+- **Marat Zitsbank** — Broker/Owner — +1 (786) 556-7682
+
+They are hiring driven agents who want a brokerage that works as hard as they do.
+
+## Contact
+
+- Apply: https://florida-best-realty.vercel.app/#apply-form
+- Office: +1 (305) 792-0800
+- Fax: +1 (305) 792-0802
+- Address: 15807 Biscayne Blvd., Suite 213, North Miami Beach, FL 33160
+- Website: https://florida-best-realty.vercel.app/
+
+Licensed real estate brokerage in the State of Florida. Equal Housing Opportunity. All information deemed reliable but not guaranteed.
+
+## Legal
+
+- [Cookie Policy](https://florida-best-realty.vercel.app/cookie-policy.html): Essential, analytics, and marketing cookies. Google Consent Mode v2 keeps analytics denied until the visitor opts in.
+
+## Optional
+
+- Shorter index: https://florida-best-realty.vercel.app/llms.txt

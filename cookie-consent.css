@@ -1,0 +1,183 @@
+/* Florida Best Realty — cookie consent banner */
+#fbr-cc-root[hidden] {
+  display: none !important;
+}
+
+#fbr-cc-banner,
+#fbr-cc-panel {
+  position: fixed;
+  z-index: 10000;
+  font-family: Inter, system-ui, sans-serif;
+}
+
+#fbr-cc-banner[hidden],
+#fbr-cc-panel[hidden] {
+  display: none !important;
+}
+
+#fbr-cc-banner {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #071f38;
+  color: #e8eaee;
+  border-top: 1px solid rgba(244, 197, 31, 0.35);
+  box-shadow: 0 -8px 32px rgba(0, 0, 0, 0.28);
+}
+
+.fbr-cc-inner {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 18px 24px 20px;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 16px 32px;
+  align-items: center;
+}
+
+.fbr-cc-title {
+  font-family: Sora, system-ui, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+  margin: 0 0 6px;
+  letter-spacing: -0.02em;
+}
+
+.fbr-cc-desc {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.72);
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.fbr-cc-desc a {
+  color: #f4c51f;
+  text-decoration: underline;
+}
+
+.fbr-cc-desc a:hover {
+  color: #fff;
+}
+
+.fbr-cc-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.fbr-cc-btn {
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  padding: 10px 16px;
+  border-radius: 6px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  text-align: center;
+}
+
+.fbr-cc-btn:focus-visible {
+  outline: 2px solid #f4c51f;
+  outline-offset: 2px;
+}
+
+.fbr-cc-btn-primary {
+  background: #f4c51f;
+  color: #071f38;
+  border-color: #f4c51f;
+}
+
+.fbr-cc-btn-primary:hover {
+  background: #f6df8a;
+}
+
+.fbr-cc-btn-secondary {
+  background: transparent;
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.35);
+}
+
+.fbr-cc-btn-secondary:hover {
+  border-color: #fff;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+#fbr-cc-panel {
+  inset: 0;
+  display: grid;
+  place-items: center;
+  padding: 16px;
+  background: rgba(7, 31, 56, 0.55);
+}
+
+.fbr-cc-panel-inner {
+  width: min(480px, 100%);
+  background: #071f38;
+  color: #e8eaee;
+  border: 1px solid rgba(244, 197, 31, 0.35);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.35);
+  padding: 24px;
+  max-height: min(80vh, 640px);
+  overflow: auto;
+}
+
+.fbr-cc-toggles {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 16px 0 20px;
+}
+
+.fbr-cc-toggle {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  color: #fff;
+}
+
+.fbr-cc-toggle input {
+  width: 18px;
+  height: 18px;
+  accent-color: #f4c51f;
+}
+
+.fbr-cc-toggle-locked {
+  opacity: 0.7;
+}
+
+.fbr-cc-settings {
+  background: none;
+  border: none;
+  padding: 0;
+  font: inherit;
+  color: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.fbr-cc-settings:hover {
+  color: #fff;
+}
+
+@media (max-width: 720px) {
+  .fbr-cc-inner {
+    grid-template-columns: 1fr;
+    padding: 16px;
+  }
+
+  .fbr-cc-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #fbr-cc-banner,
+  #fbr-cc-panel {
+    animation: none;
+  }
+}

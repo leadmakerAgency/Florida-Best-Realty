@@ -1,0 +1,46 @@
+# Florida Best Realty
+
+> Independent South Florida real estate brokerage hiring agents. 90–95% commission including rentals, 24-hour payouts, free office space with 24/7 access, and direct support from two brokers.
+
+Florida Best Realty is an agent-first brokerage in North Miami Beach, Florida. It was built by agents, for agents. President-Broker Eugene Dison and Broker/Owner Marat Zitsbank run the company without corporate overhead, desk fees, royalty fees, or transaction fees. They call applicants personally, support agents after hours and on weekends, and cut commission checks within 24 hours of closing.
+
+Key facts:
+- Business: licensed real estate brokerage hiring sales agents and brokers
+- Location: 15807 Biscayne Blvd., Suite 213, North Miami Beach, FL 33160
+- Coverage: Miami-Dade, Broward, and Palm Beach counties
+- Commission: 90–95%, including rentals
+- Payouts: within 24 hours of closing
+- Fees: $0 desk, royalty, and transaction fees; no monthly or annual fees
+- Office: free professional space with 24/7 access
+- Title: in-house title company
+- Audience: licensed real estate agents and brokers in South Florida
+- Apply: https://florida-best-realty.vercel.app/#apply-form
+
+## Pages
+
+- [Home](https://florida-best-realty.vercel.app/): Agent recruiting landing page covering commission, payouts, office, brokers, and coverage.
+- [Apply / request a callback](https://florida-best-realty.vercel.app/#apply-form): Form for licensed agents. Eugene or Marat calls back within one business day.
+- [Why join us](https://florida-best-realty.vercel.app/#why-join): Commission split, 24-hour payouts, hands-on brokers, after-hours support, and free office access.
+- [Earn more](https://florida-best-realty.vercel.app/#earn-more): 90–95% commission including rentals, no fees, work from anywhere, in-house title.
+- [How it works](https://florida-best-realty.vercel.app/#how-it-works): Apply, talk to a broker, get set up in the office, start closing.
+- [Coverage areas](https://florida-best-realty.vercel.app/#coverage): Miami-Dade, Broward, and Palm Beach County service areas.
+- [Meet the brokers](https://florida-best-realty.vercel.app/#brokers): Eugene Dison (President-Broker) and Marat Zitsbank (Broker/Owner).
+- [Contact](https://florida-best-realty.vercel.app/#contact): Office address, broker phones, and office line.
+- [Cookie Policy](https://florida-best-realty.vercel.app/cookie-policy.html): Cookie categories, Google Tag Manager consent, and how to change preferences.
+
+## Brokers
+
+- Eugene Dison, President-Broker: +1 (954) 257-8664
+- Marat Zitsbank, Broker/Owner: +1 (786) 556-7682
+
+## Contact
+
+- Website: https://florida-best-realty.vercel.app/
+- Apply: https://florida-best-realty.vercel.app/#apply-form
+- Office: +1 (305) 792-0800
+- Fax: +1 (305) 792-0802
+- Address: 15807 Biscayne Blvd., Suite 213, North Miami Beach, FL 33160
+
+## Optional
+
+- [Full page for AI agents](https://florida-best-realty.vercel.app/llms-full.txt): Longer markdown summary of the same recruiting page.
